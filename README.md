@@ -12,8 +12,8 @@ in your main.js
 ```import NiceButton from "realjay-button";
 import Vue from "vue";
 
-Vue.use(NiceButton);```
-
+Vue.use(NiceButton);
+```
 
 in your component you can then use
 
