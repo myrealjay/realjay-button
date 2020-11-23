@@ -1,0 +1,23 @@
+{
+  "private": false,
+  "name": "realjay-button",
+  "version": "0.0.1",
+  "description": "This is a simple nice button that can be reusable in vue projects",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "bili --name index --plugin vue --vue.css false",
+    "dev": "vue serve NiceButton.vue"
+  },
+  "author": "Nwachukwu James",
+  "license": "MIT",
+  "files": [
+    "dist/*"
+  ],
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "bili": "^5.0.5",
+    "rollup-plugin-vue": "^5.1.1",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
