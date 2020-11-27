@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "realjay-button",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "This is a simple nice button that can be reusable in vue projects",
   "main": "./dist/index.js",
   "scripts": {

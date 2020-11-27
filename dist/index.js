@@ -1,5 +1,5 @@
 /*!
- * realjay-button v0.0.1
+ * realjay-button v0.0.2
  * (c) Nwachukwu James
  * Released under the MIT License.
  */
